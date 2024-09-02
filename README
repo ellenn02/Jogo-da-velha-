@@ -1,0 +1,34 @@
+# Jogo da Velha em Python
+
+Este projeto é uma implementação simples do clássico jogo da velha (ou Tic-Tac-Toe) em Python. O jogo é jogado em um tabuleiro 3x3 e permite que dois jogadores joguem um contra o outro no terminal.
+
+## Funcionalidade
+
+- Exibição do tabuleiro após cada jogada.
+- Permite que os jogadores escolham a linha e a coluna onde desejam fazer suas jogadas.
+- Verifica se há um vencedor após cada jogada.
+- Declara um vencedor ou um empate quando o jogo termina.
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local:
+    ```bash
+    git clone https://github.com/seu_usuario/nome_do_repositorio.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd nome_do_repositorio
+    ```
+
+3. Execute o script para iniciar o jogo:
+    ```bash
+    python jogo_da_velha.py
+    ```
+
+   O jogo será exibido no terminal, e os jogadores serão solicitados a inserir a linha e a coluna para suas jogadas.
+
+## Exemplo de Uso
+
+O jogo pedirá aos jogadores para inserir suas escolhas no formato de linha e coluna, como mostrado abaixo:
+
