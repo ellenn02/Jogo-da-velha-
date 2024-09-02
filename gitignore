@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+*.env
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ncb
+*.sdf
+*.suo
+*.sw?
+
+# Outros
+*.DS_Store
+
+Projeto: Jogo da Velha em Python
+
+Descrição: Este projeto é uma implementação simples do jogo da velha (ou Tic-Tac-Toe) em Python. O jogo é jogado em um tabuleiro 3x3 e permite que dois jogadores joguem um contra o outro no terminal. O jogo alterna entre os jogadores "X" e "O", verifica o vencedor após cada jogada e declara um vencedor ou um empate ao final do jogo.
+
+Objetivo:
+
+Implementar o jogo da velha em Python.
+Permitir que dois jogadores interajam com o jogo através do terminal.
+Verificar e declarar o vencedor ou um empate com base nas regras do jogo.
+Tecnologias Utilizadas:
+
+Python 3.x
+Como Contribuir:
+
+Siga as instruções no README para contribuir com o projeto.
+Submeta Pull Requests com melhorias ou correções e descreva as mudanças realizadas.
